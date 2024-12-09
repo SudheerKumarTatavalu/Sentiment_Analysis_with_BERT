@@ -35,7 +35,7 @@ cd sentiment-analysis-bert
 
 3. Run the Model: To run the sentiment analysis model, execute the following command:
 ```
-python nlp_final__prjt.py
+python Sentiemnt_Analysis_Using_BERT.py
 ```
 4. Predict Sentiment: You can input your own text for sentiment prediction. Modify the review_text variable in the script to test different reviews.
 
