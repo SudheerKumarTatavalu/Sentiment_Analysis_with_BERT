@@ -63,6 +63,7 @@ The model achieves a high accuracy on the test set, demonstrating its effectiven
 - Data Augmentation: Implement techniques to balance the dataset and improve model performance.
 - Model Fine-tuning: Experiment with different hyperparameters and architectures to enhance accuracy.
 
+## Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 ## License
