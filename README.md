@@ -24,5 +24,6 @@ To run this project, you need to have Python installed along with the required l
 ```bash
 pip install -q -U transformers torch pandas seaborn matplotlib
 
-**## Usage Instructions**
+## Usage Instructions
 Clone the Repository: Clone this repository to your local machine using the following command:
+```
